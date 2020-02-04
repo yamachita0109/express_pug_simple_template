@@ -1,0 +1,14 @@
+{
+  "name": "coverage_tarou",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "yamashita-kazu@gnavi.co.jp",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "pug": "^2.0.4"
+  }
+}
